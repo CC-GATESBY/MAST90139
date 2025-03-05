@@ -1,0 +1,17 @@
+freq,gend,PMS,EMS,MS,freq.b,gend.b,PMS.b,EMS.b,N.b
+28,M,Y,Y,D,28,M,Y,Y,39
+60,M,Y,N,D,60,M,Y,N,102
+17,M,N,Y,D,17,M,N,Y,21
+68,M,N,N,D,68,M,N,N,198
+17,F,Y,Y,D,17,F,Y,Y,21
+54,F,Y,N,D,54,F,Y,N,79
+36,F,N,Y,D,36,F,N,Y,40
+214,F,N,N,D,214,F,N,N,536
+11,M,Y,Y,M,,,,,
+42,M,Y,N,M,,,,,
+4,M,N,Y,M,,,,,
+130,M,N,N,M,,,,,
+4,F,Y,Y,M,,,,,
+25,F,Y,N,M,,,,,
+4,F,N,Y,M,,,,,
+322,F,N,N,M

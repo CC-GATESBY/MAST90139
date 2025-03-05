@@ -1,0 +1,17 @@
+ID,Yes,No,Age,Race
+1,15,617,40to50,White
+1,19,613,40to50,White
+2,24,557,51to60,White
+2,25,556,51to60,White
+3,42,789,61to70,White
+3,48,783,61to70,White
+4,139,673,70+,White
+4,146,666,70+,White
+5,29,750,40to50,Black
+5,31,748,40to50,Black
+6,38,574,51to60,Black
+6,37,575,51to60,Black
+7,50,473,61to70,Black
+7,49,474,61to70,Black
+8,85,344,70+,Black
+8,93,336,70+,Black
